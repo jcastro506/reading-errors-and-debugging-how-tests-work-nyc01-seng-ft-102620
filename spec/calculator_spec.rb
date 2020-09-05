@@ -1,5 +1,12 @@
 # Code your solution in calculator.rb
 
+first_number = 5
+
+second_number = 2 
+
+sum = first_number + second_number
+
+
 describe "./calculator.rb" do
 
   it "contains a local variable called first_number that is assigned to a number" do
